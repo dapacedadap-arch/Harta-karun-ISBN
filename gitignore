@@ -1,0 +1,12 @@
+# File sementara Python
+__pycache__/
+*.pyc
+
+# Pengaturan pribadi editor dan sistem
+.vscode/
+.DS_Store
+Thumbs.db
+
+ latar.jpg
+ maskot1.jpg
+ maskot2.png
